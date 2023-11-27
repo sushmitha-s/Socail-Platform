@@ -1,0 +1,1 @@
+export const SET_FRNDS_DETAILS= 'SET_FRNDS_DETAILS';

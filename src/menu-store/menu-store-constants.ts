@@ -1,0 +1,2 @@
+export const GET_MENU_DETAILS = 'GET_MENU_DETAILS'
+export const set_MENU_DETAILS = 'SET_MENU_DETAILS'

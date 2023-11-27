@@ -1,0 +1,23 @@
+.profileimg{
+   height: 40px;
+   width: 40px;
+   border-radius: 50%;
+   object-fit: cover;
+}
+.postimg{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.con1{
+    border-radius: 8px;
+    border-style: groove;
+    padding: 2% 0% 2% 0%;
+    margin: 2% 0% 2% 0%;
+}
+.con2{
+    border-radius: 8px;
+    border-style: groove;
+    padding: 2% 0% 2% 0%;
+    margin: 2% 0% 2% 0%;
+}

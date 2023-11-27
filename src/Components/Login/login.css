@@ -1,0 +1,13 @@
+.log{
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(240, 240, 255, 0.784);
+}
+.left{
+    flex-basis: 50%;
+    padding : 20% 0% 20% 10%
+}
+.right{
+    flex-basis: 50%;
+    padding: 20% 10% 20% 0%
+}

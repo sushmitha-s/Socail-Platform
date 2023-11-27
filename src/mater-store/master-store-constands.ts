@@ -1,0 +1,2 @@
+export const GET_USER_DETAILS = 'GET_USER_DETAILS'
+export const set_USER_DETAILS = 'SET_USER_DETAILS'
